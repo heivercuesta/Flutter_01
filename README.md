@@ -24,18 +24,25 @@ Al componer widgets, creas tu interfaz de usuario completa.
 
 El mayor atractivo de Flutter es su capacidad para apuntar a múltiples plataformas con el mismo código fuente:
 
-Plataforma
+*Plataforma
+*Descripción
+*Mobile
+*iOS y Android (su uso más común).
+*Web
+*Aplicaciones web interactivas (Single Page Applications - SPAs).
+*Desktop
+*Windows, macOS y Linux.
 
-Descripción
+# 3. Ventajas Clave de Flutter
 
-Mobile
+## A. Hot Reload (Recarga en Caliente)
 
-iOS y Android (su uso más común).
+El Hot Reload es una característica de productividad asombrosa. Permite a los desarrolladores ver instantáneamente los resultados de los cambios de código sin perder el estado actual de la aplicación. Esto acelera drásticamente el ciclo de desarrollo y prueba.
 
-Web
+## B. Rendimiento Nativo
 
-Aplicaciones web interactivas (Single Page Applications - SPAs).
+Debido a que el código de Dart se compila directamente a código nativo ARM para dispositivos móviles (y a código máquina para escritorio), las aplicaciones de Flutter son extremadamente rápidas y apenas se distinguen de las aplicaciones creadas con los lenguajes nativos de cada plataforma.
 
-Desktop
+## C. UI Expresiva y Flexible
 
-Windows, macOS y Linux.
+Al controlar cada píxel, Flutter permite crear interfaces de usuario altamente personalizadas que van más allá de los límites de los widgets preestablecidos del sistema operativo. Es ideal para diseños únicos y de marca.
