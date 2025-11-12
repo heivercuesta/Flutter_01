@@ -25,12 +25,19 @@ Al componer widgets, creas tu interfaz de usuario completa.
 El mayor atractivo de Flutter es su capacidad para apuntar a múltiples plataformas con el mismo código fuente:
 
 *Plataforma
+
 *Descripción
+
 *Mobile
+
 *iOS y Android (su uso más común).
+
 *Web
+
 *Aplicaciones web interactivas (Single Page Applications - SPAs).
+
 *Desktop
+
 *Windows, macOS y Linux.
 
 # 3. Ventajas Clave de Flutter
